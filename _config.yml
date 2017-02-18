@@ -1,9 +1,9 @@
 # Site settings
-title:       pixyll
+title:       bottomlessfood
 email:       pudgeybottoms@gmail.com
 author:      Louis Page
 description: "Pudgeybottoms Food blog and stuff about Twitch!"
-baseurl:     "/pixyll"
+baseurl:     ""
 url:         "http://lbpage.github.io"
 date_format: "%b %-d, %Y"
 
