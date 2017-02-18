@@ -4,7 +4,7 @@ email:       pudgeybottoms@gmail.com
 author:      Louis Page
 description: "Pudgeybottoms Food blog and stuff about Twitch!"
 baseurl:     ""
-url:         "http://lbpage.github.io"
+url:         "http://www.bottomlessfood.us"
 date_format: "%b %-d, %Y"
 
 # Build settings
