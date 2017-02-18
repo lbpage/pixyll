@@ -8,9 +8,9 @@ url:         "http://www.bottomlessfood.us"
 date_format: "%b %-d, %Y"
 
 # Build settings
-#markdown: kramdown
-#permalink: pretty
-#paginate: 3
+markdown: kramdown
+permalink: pretty
+paginate: 3
 
 # Google services
 google_verification:
