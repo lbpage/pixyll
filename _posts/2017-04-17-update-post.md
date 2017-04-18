@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Welcome to Bottomlessfood
-date:       2017-02-16 12:31:19
-summary:    This is the beginning of the food blog for Pudgeybottoms cooking streams
+title:      Big update
+date:       2017-04-17
+summary:    Big update time sorry for missing but no more time to buckle down!
 categories: first
 ---
 
