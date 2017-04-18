@@ -10,7 +10,7 @@ date_format: "%b %-d, %Y"
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 3
+paginate: 4
 
 # Google services
 google_verification:
