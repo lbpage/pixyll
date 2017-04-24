@@ -84,7 +84,7 @@ This all ends up being 1500 Calories. I also added on a desert because I love sw
 
 ---
 
-#Weekend 1 (1520 CALORIES)
+# Weekend 1 (1520 CALORIES)
 
 `All together this is 1520 Calories. The weekend meals I try to make fun and a bit hardier (within the allotted calorie limit) as a treat.`
 
