@@ -46,6 +46,8 @@ Mix the first 4 ingredients and spread onto the slice of bread. I toasted my bre
 
 ### Salmon and Grilled Veggies 
 
+![Imgur](http://i.imgur.com/oBmPM5N.jpg:large)
+
 # *460 CALORIES*
 
 > - 4 oz Grilled Salmon
@@ -74,6 +76,9 @@ I bought 2 packs of frozen salmon. They are way less expensive than fresh salmon
 - 2 tbsp Salsa
 - 2 [Wasa Crackers](http://www.wasa-usa.com/wp-content/uploads/us/2013/03/multigrain-pack-new-350x243.jpg 
 2 Wedges Laughing Cow Cheese)
+
+>> wasa crackers...
+![wasa](https://www.instructables.com/files/deriv/FEN/YOJY/H461XJ2E/FENYOJYH461XJ2E.LARGE.jpg)
 
 I picked out 2 snacks to eat during the day. The first one we eat in between breakfast and lunch and the second one between lunch and dinner. Having them curbs your hunger until the next meal. It’s way easier to get through the day with a few snacks.
 
