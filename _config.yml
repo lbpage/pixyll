@@ -3,8 +3,8 @@ title:       Bottomlessfood
 email:       pudgeybottoms@gmail.com
 author:      Louis Page
 description: "Pudgeybottoms Food blog and stuff about Twitch!"
-baseurl:     "http://www.bottomlessfood.us"
-url:         "http://www.bottomlessfood.us"
+baseurl:     "https://www.bottomlessfood.us"
+url:         "https://www.bottomlessfood.us"
 date_format: "%b %-d, %Y"
 
 # Build settings
