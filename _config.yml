@@ -5,6 +5,7 @@ author:      Louis Page
 description: "Pudgeybottoms Food blog and stuff about Twitch!"
 baseurl:     "https://www.bottomlessfood.us"
 url:         "https://www.bottomlessfood.us"
+enforce_ssl: "https://www.bottomlessfood.us"
 date_format: "%b %-d, %Y"
 
 # Build settings
